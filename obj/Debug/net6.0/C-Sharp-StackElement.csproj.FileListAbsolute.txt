@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\bin\Debug\net6.0\C-Sharp-StackElement.exe
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\bin\Debug\net6.0\C-Sharp-StackElement.deps.json
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\bin\Debug\net6.0\C-Sharp-StackElement.runtimeconfig.json
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\bin\Debug\net6.0\C-Sharp-StackElement.dll
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\bin\Debug\net6.0\C-Sharp-StackElement.pdb
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\C-Sharp-StackElement.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\C-Sharp-StackElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\C-Sharp-StackElement.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\C-Sharp-StackElement.AssemblyInfo.cs
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\C-Sharp-StackElement.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\C-Sharp-StackElement.dll
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\refint\C-Sharp-StackElement.dll
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\C-Sharp-StackElement.pdb
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\C-Sharp-StackElement.genruntimeconfig.cache
+C:\Users\TRA\source\repos\C-Sharp-StackElement\C-Sharp-StackElement\obj\Debug\net6.0\ref\C-Sharp-StackElement.dll
